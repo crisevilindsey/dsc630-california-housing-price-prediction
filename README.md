@@ -193,7 +193,7 @@ Contains the Python analysis, data preparation, regression modeling, evaluation 
 
 ### Final Written Report
 
-[View Final Project Report](Criselvi%20Lindsey%20DSC630%20Milestone%205%20Final%281%29.docx)
+[View Final Project Report](Criselvi%20Lindsey%20DSC630%20Milestone%205%20Final.docx)
 
 Documents the research objectives, dataset, methodology, model performance, findings, and conclusions.
 
